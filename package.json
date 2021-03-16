@@ -10,7 +10,6 @@
     "bin",
     "src"
   ],
-
   "dependencies": {
     "commander": "^2.20.0",
     "esm": "^3.2.25",
